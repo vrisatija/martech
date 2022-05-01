@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="225px" height="225px" viewBox="0 0 225 225" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 5</title>
+    <defs>
+        <linearGradient x1="86.9483717%" y1="14.3404179%" x2="7.87853738%" y2="79.9250846%" id="linearGradient-1">
+            <stop stop-color="#2251FF" stop-opacity="0.25972465" offset="0%"></stop>
+            <stop stop-color="#00D3FD" stop-opacity="0.111970061" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1" transform="translate(-1008.000000, -349.000000)">
+            <g id="Group-5" transform="translate(1008.000000, 349.000000)">
+                <circle id="Oval-Copy" fill="url(#linearGradient-1)" opacity="0.88797433" cx="112.5" cy="112.5" r="112.5"></circle>
+                <g id="Group-11" transform="translate(51.855469, 59.765625)">
+                    <rect id="Rectangle-Copy-2" fill="#A3DFFD" fill-rule="nonzero" x="0" y="6.15234375" width="50.9765625" height="68.5546875" rx="2"></rect>
+                    <rect id="Rectangle-Copy-3" fill="#A3DFFD" fill-rule="nonzero" x="60.6445312" y="46.5820312" width="50.9765625" height="68.5546875" rx="2"></rect>
+                    <g id="Group-2" transform="translate(5.273438, 0.000000)" stroke="#2251FF" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+                        <rect id="Rectangle" x="0" y="0" width="50.9765625" height="68.5546875"></rect>
+                        <rect id="Rectangle-Copy" x="60.6445312" y="40.4296875" width="50.9765625" height="68.5546875"></rect>
+                        <g id="Group" transform="translate(18.017578, 16.259766)">
+                            <line x1="-9.71137496e-14" y1="-1.55405907e-17" x2="14.0625" y2="14.0625" id="Path-10"></line>
+                            <line x1="-9.71137496e-14" y1="-1.55405907e-17" x2="14.0625" y2="14.0625" id="Path-10-Copy" transform="translate(7.031250, 7.031250) scale(-1, 1) translate(-7.031250, -7.031250) "></line>
+                        </g>
+                        <g id="Group-Copy" transform="translate(78.662109, 80.419922)">
+                            <line x1="-9.71137496e-14" y1="-1.55405907e-17" x2="14.0625" y2="14.0625" id="Path-10"></line>
+                            <line x1="-9.71137496e-14" y1="-1.55405907e-17" x2="14.0625" y2="14.0625" id="Path-10-Copy" transform="translate(7.031250, 7.031250) scale(-1, 1) translate(-7.031250, -7.031250) "></line>
+                        </g>
+                        <polyline id="Path-10-Copy-2" transform="translate(25.048828, 50.506787) scale(-1, 1) translate(-25.048828, -50.506787) " points="18.0175781 45.2030265 28.5644531 55.8105469 32.0800781 52.2949219"></polyline>
+                        <polyline id="Path-10-Copy-3" transform="translate(85.693359, 61.053662) scale(-1, 1) translate(-85.693359, -61.053662) " points="78.6621094 55.7499015 89.2089844 66.3574219 92.7246094 62.8417969"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

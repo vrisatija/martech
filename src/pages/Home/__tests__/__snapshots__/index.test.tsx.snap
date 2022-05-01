@@ -1,0 +1,126 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Screen renders home screen 1`] = `
+<DocumentFragment>
+  <div
+    class="flex min-h-screen"
+  >
+    <div
+      class="flex px-10 py-7 justify-between bg-blue-900 text-white absolute w-full"
+    >
+      <div
+        class="font-ibm-semi-bold"
+      >
+        logo
+      </div>
+      <div
+        class="flex items-center cursor-pointer"
+      >
+        <span
+          class="mr-2"
+        >
+          Profile
+        </span>
+        <img
+          alt="menu arrow"
+          class="w-3.5"
+          src="downArrow.svg"
+        />
+      </div>
+    </div>
+    <div
+      class="flex justify-center flex-grow w-full bg-no-repeat bg-cover bg-center bg-opacity-80 mt-20"
+      style="background-image: url(backgroundImg.png);"
+    >
+      <div
+        class="flex flex-col justify-center items-center content-container mx-20 my-10 px-10 py-18 bg-white-100 rounded-3xl 1.5xl:flex-row 1.5xl:m-auto laptop:px-24"
+      >
+        <div
+          class="text-white w-full mb-16 1.5xl:mr-16 1.5xl:mb-0"
+        >
+          <div
+            class="w-20 h-0.75 from-blue-100 bg-gradient-to-l to-blue-200 mb-4"
+          />
+          <div
+            class="font-ibm-semi-bold text-5xl"
+          >
+            MarTech
+            <br />
+            Compass
+          </div>
+          <div
+            class="mt-5"
+          >
+            Explore MarTechs for your clients
+          </div>
+        </div>
+        <div
+          class="flex justify-center flex-col md:flex-row"
+        >
+          <button
+            class="rounded-3xl w-76.25 h-91.75 transform transition duration-500 hover:scale-105"
+            data-testid=""
+            style="background-image: url(cardBackground.svg);"
+            type="button"
+          >
+            <div
+              class="px-10 pt-10"
+            >
+              <img
+                alt="search artwork"
+                src="searchImg.svg"
+              />
+              <div
+                class="flex flex-col items-center mt-4 text-white font-poppins-semi-bold text-center"
+              >
+                SEARCH
+                <br />
+                FOR
+                <br />
+                VENDORS
+              </div>
+            </div>
+          </button>
+          <div
+            class="flex flex-row items-center my-6 md:mx-4 md:my-0 md:flex-col"
+          >
+            <div
+              class="flex-1 border-t md:border-l"
+            />
+            <div
+              class="mx-2 text-white"
+            >
+              OR
+            </div>
+            <div
+              class="flex-1 border-t md:border-l"
+            />
+          </div>
+          <button
+            class="rounded-3xl w-76.25 h-91.75 transform transition duration-500 hover:scale-105"
+            data-testid=""
+            style="background-image: url(cardBackground.svg);"
+            type="button"
+          >
+            <div
+              class="px-10 pt-10"
+            >
+              <img
+                alt="search artwork"
+                src="compareImg.svg"
+              />
+              <div
+                class="flex flex-col items-center mt-4 text-white font-poppins-semi-bold text-center"
+              >
+                COMPARE
+                <br />
+                VENDORS
+              </div>
+            </div>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

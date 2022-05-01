@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="305px" height="367px" viewBox="0 0 305 367" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 15</title>
+    <defs>
+        <linearGradient x1="75.5189532%" y1="14.3404179%" x2="20.9081732%" y2="79.9250846%" id="linearGradient-1">
+            <stop stop-color="#00D3FD" stop-opacity="0.319875437" offset="0%"></stop>
+            <stop stop-color="#2251FF" stop-opacity="0.365166084" offset="98.6970061%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="305" height="367" rx="30"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1" transform="translate(-968.000000, -309.000000)">
+            <g id="Group-15" transform="translate(968.000000, 309.000000)">
+                <g id="Group-9" fill="url(#linearGradient-1)">
+                    <rect id="Rectangle-Copy-4" x="0" y="0" width="305" height="367" rx="30"></rect>
+                </g>
+                <g id="Group-10">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask" fill-opacity="0.123534623" fill="#00B0F9" xlink:href="#path-2"></use>
+                    <g mask="url(#mask-3)" fill="#ADE3FA" fill-opacity="0.08392" opacity="0.487165179">
+                        <g transform="translate(258.000000, 336.500000) scale(-1, 1) translate(-258.000000, -336.500000) translate(173.000000, 252.000000)">
+                            <ellipse id="Oval" cx="59" cy="56" rx="59" ry="56"></ellipse>
+                            <ellipse id="Oval-Copy" cx="111" cy="113" rx="59" ry="56"></ellipse>
+                        </g>
+                    </g>
+                    <g mask="url(#mask-3)" fill="#ADE3FA" fill-opacity="0.08392" opacity="0.487165179">
+                        <g transform="translate(37.000000, 31.500000) scale(-1, 1) translate(-37.000000, -31.500000) translate(-48.000000, -53.000000)">
+                            <ellipse id="Oval" cx="59" cy="56" rx="59" ry="56"></ellipse>
+                            <ellipse id="Oval-Copy" cx="111" cy="113" rx="59" ry="56"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

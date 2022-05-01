@@ -1,0 +1,15 @@
+name: dna-assets-martech-fe
+type: container
+image: docker.mdl.cloud/dna_assets/martech-fe
+
+tags:
+  - public
+
+service:
+  container:
+    count: 1
+    port: 80
+
+endpoints:
+  - path: /api
+    service: dna-assets-martech-be

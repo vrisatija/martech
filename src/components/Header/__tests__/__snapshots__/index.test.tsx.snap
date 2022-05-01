@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component renders header component 1`] = `
+<DocumentFragment>
+  <div
+    class="flex px-10 py-7 justify-between bg-blue-900 text-white absolute w-full"
+  >
+    <div
+      class="font-ibm-semi-bold"
+    >
+      logo
+    </div>
+    <div
+      class="flex items-center cursor-pointer"
+    >
+      <span
+        class="mr-2"
+      >
+        Profile
+      </span>
+      <img
+        alt="menu arrow"
+        class="w-3.5"
+        src="downArrow.svg"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

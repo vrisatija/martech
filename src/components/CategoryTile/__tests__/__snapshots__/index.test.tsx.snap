@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CategoryTile Component renders correctly 1`] = `
+<DocumentFragment>
+  <button
+    class="rounded-3xl w-76.25 h-91.75 transform transition duration-500 hover:scale-105"
+    data-testid=""
+    style="background-image: url(cardBackground.svg);"
+    type="button"
+  >
+    <div
+      class="px-10 pt-10"
+    >
+      <img
+        alt="search artwork"
+        src=""
+      />
+      <div
+        class="flex flex-col items-center mt-4 text-white font-poppins-semi-bold text-center"
+      >
+        test
+      </div>
+    </div>
+  </button>
+</DocumentFragment>
+`;

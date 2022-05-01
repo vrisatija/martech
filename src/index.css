@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: Poppins-Regular, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.blur-container {
+  backdrop-filter: blur(18px);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: "IBMPlexSerif-SemiBold";
+  src: local("IBMPlexSerif-SemiBold"),
+    url("./fonts/IBMPlexSerif-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "IBMPlexSerif-Regular";
+  src: local("IBMPlexSerif-Regular"),
+    url("./fonts/IBMPlexSerif-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Poppins-Regular";
+  src: local("Poppins-Regular"),
+    url("./fonts/Poppins-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Poppins-SemiBold";
+  src: local("Poppins-SemiBold"),
+    url("./fonts/Poppins-SemiBold.ttf") format("truetype");
+}
